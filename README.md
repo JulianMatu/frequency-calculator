@@ -8,7 +8,7 @@ The program is mostly written in x86-64 assembly with driver code written in C a
 ## Problem
 There is an electric circuit with three subcircuits wired in parallel. Electricity flows from the generator source in a clockwise route and back to the source. Along the route the electrons may choose one of three paths to complete the circuit.
 
-Diagram: ![Image](https://www.allaboutcircuits.com/uploads/thumbnails/Thumbnail-Parallel_Circuit.jpg)
+![Image](https://www.allaboutcircuits.com/uploads/thumbnails/Thumbnail-Parallel_Circuit.jpg)
 
 ## Running Frequency Calculator
 The program is ran by executing r.sh on a Linux OS with a native installation of Virtual Machine (it was designed and tested using Windows Subsytem for Linux).
@@ -21,8 +21,8 @@ If you are on a Windows PC, open the console in the local repository and type th
 > ./r.sh
 
 ## Credits
-Julian Matuszewski
+Julian Matuszewski    
 Email: julianmatuszewski@csu.fullerton.edu
 
 ## Copyright
-This work is covered by the GNU General Public License 3, see **LICENSE** for full Copyright statement.
+This work is covered by the GNU General Public License 3, see [LICENSE](https://github.com/JulianMatu/frequency-calculator/blob/main/LICENSE) for full Copyright statement.
